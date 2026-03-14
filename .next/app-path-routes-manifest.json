@@ -1,0 +1,15 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/admin/route": "/api/admin",
+  "/api/auth/check/route": "/api/auth/check",
+  "/api/auth/login/route": "/api/auth/login",
+  "/api/auth/signup/route": "/api/auth/signup",
+  "/api/roblox/route": "/api/roblox",
+  "/api/whitelist/route": "/api/whitelist",
+  "/dashboard/page": "/dashboard",
+  "/login/page": "/login",
+  "/page": "/",
+  "/showcases/page": "/showcases",
+  "/signup/page": "/signup"
+}
